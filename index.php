@@ -1,5 +1,8 @@
 <?php
 /**
+
+modified master
+
  * Magento
  *
  * NOTICE OF LICENSE
